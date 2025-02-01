@@ -7,17 +7,17 @@ This Spotify clone aims to replicate the core functionalities of the popular mus
 ## Features
 
 *   **Spotify API Integration:**  Access and interact with Spotify's vast music library. 🎵
-*
+
 *   **User Authentication:** Secure login and signup functionality. 🔐  Users can create accounts, log in, and manage their profiles.
-*
+
 *   **Music Playback:** Stream and control music playback (play, pause, skip, volume control). ⏯️
-*
+
 *   **Search Functionality:** Search for artists, albums, and tracks. 🔎  Provides relevant search results based on user input.
-*
+
 *   **Browse Music:** Explore curated playlists, new releases, and top charts. 🧭  Discover new music based on genre, mood, or popularity.
-*
+
 *   **Responsive Design:**  Optimized for various screen sizes using Styled Components.📱  Ensures a consistent experience across devices.
-*
+
 *   **State Management:** Efficient state management using Context API and `useReducer` hook. ⚛️  Manages application state effectively for smooth user interactions.
 
 *   **Styled Components:**  Styling with Styled Components for maintainability and reusability.💅  Facilitates easy styling and customization of components.
